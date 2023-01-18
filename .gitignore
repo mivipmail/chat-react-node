@@ -1,0 +1,14 @@
+/client/node_modules
+
+/client/build
+
+/client/.env.*
+
+
+
+/server/node_modules
+
+/server/_docker
+/server/_web
+
+/server/.env.*
